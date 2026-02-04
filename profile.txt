@@ -1,0 +1,5 @@
+Profile:
+1. Nama
+2. Alamat
+3. No.hp
+4. Email
